@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "FOWARD";
+    cout << "There will be no MERCY";
     return 0;
 }
