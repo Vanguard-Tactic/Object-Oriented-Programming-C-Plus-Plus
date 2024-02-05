@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "WE WHILE SHOW YOU ARE LIGHT";
+    cout << "FOWARD";
     return 0;
 }
