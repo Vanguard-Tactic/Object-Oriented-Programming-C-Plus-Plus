@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "There will be no MERCY";
-    cout << "What's next?";
+    cout << "Kill of the Wasteland!";
+    cout << "On to the Arena!?";
     return 0;
 }
